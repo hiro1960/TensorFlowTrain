@@ -26,7 +26,7 @@ x_data = np.array([
 # ]
 y_data = np.array([
   [0.],
-  [1.],
+  [0.],
   [0.],
   [1.]
 ])
